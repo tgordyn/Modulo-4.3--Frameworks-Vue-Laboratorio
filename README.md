@@ -1,5 +1,30 @@
-# Vue 3 + Vite
+# Módulo 4.3 - Frameworks - Laboratorio Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+En este proyecto creamos una aplicación web utilizando Vue que permite a los usuarios administrar una lista de tareas en el estado de la aplicación utilizando un store de Pinia.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![Captura de pantalla](./public/screenshot.png)
+
+## Puntos Opcionales agregados
+- Estilos CSS utilizando Tailwind.
+- Persistencia de estado utilizando un Storage local.
+- Botones Add y remove con accesibilidad.
+- Funcionalidad de filtrado para Tareas completadas y pendientes.
+- Marcado de todas las tareas Completadas y pendientes.
+
+## Instalación
+
+1. **Clonar el repositorio**:
+   git clone https://github.com/tgordyn/Modulo-4.3--Frameworks-Vue-Laboratorio.git
+
+2. **Navegar al directorio del repositorio**:
+   - cd Modulo-4.3--Frameworks-Vue-Laboratorio
+   - cd ENTREGA-VUE
+
+
+3. **Instalar las dependencias**:
+   `npm install`
+
+## Ejecutar aplicación
+
+Para ejecutar la aplicación en "development mode" se utiliza el comando `npm run dev`.
+Se abrirá por defecto en el localhost 5173 en el navegador.
