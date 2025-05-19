@@ -18,7 +18,6 @@ En este proyecto creamos una aplicación web utilizando Vue que permite a los us
 
 2. **Navegar al directorio del repositorio**:
    - cd Modulo-4.3--Frameworks-Vue-Laboratorio
-   - cd ENTREGA-VUE
 
 
 3. **Instalar las dependencias**:
